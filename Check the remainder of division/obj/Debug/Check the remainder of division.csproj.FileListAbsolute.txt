@@ -1,0 +1,7 @@
+F:\Check the remainder of division\Check the remainder of division\bin\Debug\Check the remainder of division.exe.config
+F:\Check the remainder of division\Check the remainder of division\bin\Debug\Check the remainder of division.exe
+F:\Check the remainder of division\Check the remainder of division\bin\Debug\Check the remainder of division.pdb
+F:\Check the remainder of division\Check the remainder of division\obj\Debug\Check the remainder of division.csproj.AssemblyReference.cache
+F:\Check the remainder of division\Check the remainder of division\obj\Debug\Check the remainder of division.csproj.CoreCompileInputs.cache
+F:\Check the remainder of division\Check the remainder of division\obj\Debug\Check the remainder of division.exe
+F:\Check the remainder of division\Check the remainder of division\obj\Debug\Check the remainder of division.pdb
